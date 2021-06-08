@@ -3,6 +3,9 @@ Ai Scripts to be used while towertesting in the perfect tower 2. Includes almost
 
 **by default of these have an impulse of wake up and will wait in the town menu until you start a tower testing run and will go back to waiting when you end it, change it if you prefer something else.**
 
+
+
+
 Simple Ability Spam: cost very little ram and will use all abilites from 1-15 as soon as they come off cooldown.
 ```C0FiaWxpdHlTcGFtAQAAAAZ3YWtldXAAAAAABAAAABFnZW5lcmljLndhaXR1bnRpbBFjb21wYXJpc29uLmRvdWJsZQx0b3dlci5oZWFsdGgIY29uc3RhbnQBAAhjb25zdGFudAQBPghjb25zdGFudAMAAAAAAAAAAA1sb2NhbC5pbnQuc2V0CGNvbnN0YW50BARzbG90DmFyaXRobWV0aWMuaW50DmFyaXRobWV0aWMuaW50DWxvY2FsLmludC5nZXQIY29uc3RhbnQEBHNsb3QIY29uc3RhbnQEA21vZAhjb25zdGFudAIPAAAACGNvbnN0YW50BAErCGNvbnN0YW50AgEAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQEc2xvdAxnZW5lcmljLmdvdG8IY29uc3RhbnQCAQAAAA==```
 
@@ -14,3 +17,4 @@ Smart Dispel: Will use Dispel only when afflicted with a negative buff. Edit the
 ```BmRpc3BlbAEAAAAGd2FrZXVwAAAAAAUAAAARZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuaGVhbHRoCGNvbnN0YW50AQAIY29uc3RhbnQEAT4IY29uc3RhbnQDAAAAAAAAAAANbG9jYWwuaW50LnNldAhjb25zdGFudAQGZGlzcGVsCGNvbnN0YW50AgMAAAARZ2VuZXJpYy53YWl0dW50aWwOY29tcGFyaXNvbi5pbnQUdG93ZXIuYnVmZnMubmVnYXRpdmUIY29uc3RhbnQEAj49CGNvbnN0YW50AgEAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQGZGlzcGVsDGdlbmVyaWMuZ290bwhjb25zdGFudAIDAAAA```
 
 Smart Dark Sacrifice: Will use Dark Sacrifice to keep you below 50% hp to take advantage of tower hp% based modules like strikeback and shelter.
+```DkRhcmtfRGVzcGVyYWRvAAAAAAAAAAAEAAAADWxvY2FsLmludC5zZXQIY29uc3RhbnQEDmRhcmtfc2FjcmlmaWNlCGNvbnN0YW50AgEAAAARZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUMdG93ZXIuaGVhbHRoCGNvbnN0YW50AQEIY29uc3RhbnQEAT4IY29uc3RhbnQDAAAAAAAA4D8XdG93ZXIubW9kdWxlLnVzZWluc3RhbnQNbG9jYWwuaW50LmdldAhjb25zdGFudAQOZGFya19zYWNyaWZpY2UMZ2VuZXJpYy5nb3RvCGNvbnN0YW50AgIAAAA=```
